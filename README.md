@@ -1,6 +1,6 @@
 # PAULO SOUZA
 
-DATA SCIENTIST FULL STACK @fundacaomt.
+SENIOR DATA SCIENTIST AND FULL STACK DEVELOPER @fundacaomt.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulohnsouza/)](https://www.linkedin.com/in/paulohnsouza) 
 [![Gmail Badge](https://img.shields.io/badge/-souza.phn.agro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souza.phn.agro@gmail.com)](mailto:souza.phn.agro@gmail.com)
