@@ -10,13 +10,13 @@ Enthusiast of the best web & mobile development technologies.
 I'm a Fullstack Software Developer. I have experience in application development using Flutter, React js, React Native, Node js ecosystems. Seeking to develop tools for the field and evolve agriculture in a digital environment. Acting as a senior data scientist and database management in Fundação MT - Rondonópolis city.
 
 The success formula:
-[(Dedication + Sacrifices) *(number of study hours)]^patience = SUCCESS.
-success <- function(motivation = "" ) {
-if(motivation == TRUE){
-cat("If you develop the habits of success, you will make success a habit.\n")
-}
-else{
-cat("Try again!")
-}
-
+[(Dedication + Sacrifices) *(number of study hours)]^patience = SUCCESS. &nbsp;
+success <- function(motivation = "" ) {&nbsp;
+if(motivation == TRUE){&nbsp;
+cat("If you develop the habits of success, you will make success a habit.\n")&nbsp;
+}&nbsp;
+else{&nbsp;
+cat("Try again!")&nbsp;
+}&nbsp;
+&nbsp;
 "success is trainable." (JOEL JOTA)
