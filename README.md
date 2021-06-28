@@ -9,4 +9,14 @@ Enthusiast of the best web & mobile development technologies.
 
 I'm a Fullstack Software Developer. I have experience in application development using Flutter, React js, React Native, Node js ecosystems. Seeking to develop tools for the field and evolve agriculture in a digital environment. Acting as a senior data scientist and database management in Fundação MT - Rondonópolis city.
 
-"success is trainable."
+The success formula:
+[(Dedication + Sacrifices) *(number of study hours)]^patience = SUCCESS.
+success <- function(motivation = "" ) {
+if(motivation == TRUE){
+cat("If you develop the habits of success, you will make success a habit.\n")
+}
+else{
+cat("Try again!")
+}
+
+"success is trainable." (JOEL JOTA)
