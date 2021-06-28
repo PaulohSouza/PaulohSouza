@@ -9,7 +9,7 @@ Enthusiast of the best web & mobile development technologies.
 
 I'm a Fullstack Software Developer. I have experience in application development using Flutter, React js, React Native, Node js ecosystems. Seeking to develop tools for the field and evolve agriculture in a digital environment. Acting as a senior data scientist and database management in Fundação MT - Rondonópolis city.
 
-The success formula:
+The success formula: <br/>
 [(Dedication + Sacrifices) *(number of study hours)]^patience = SUCCESS. <br/>
 success <- function(motivation = "" ) {<br/>
 if(motivation == TRUE){<br/>
